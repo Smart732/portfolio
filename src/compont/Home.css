@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img{
+    width:100vw;
+    height: 100vh;
+    
+    background-image: url("https://wallpaperaccess.com/full/1644014.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: `url("https://c4.wallpaperflare.com/wallpaper/116/883/732/students-studying-motivational-minimalism-wallpaper-preview.jpg")`;
+   */
+   
+}
