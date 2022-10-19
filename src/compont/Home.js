@@ -64,6 +64,7 @@ function Home() {
   return (
     <>
       <div className='img'>
+        <h2>Welcome to my Website</h2>
       <h1 style={{ paddingTop: '5rem', margin: 'auto 0', fontWeight: 'normal',color:"rgb(227, 19, 64)" }}>
        I Am{' '}
         <span style={{ color: 'rgb(109, 136, 29)', fontWeight: 'bold' }}>
