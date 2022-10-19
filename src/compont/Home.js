@@ -56,7 +56,7 @@
 
 
 import React from 'react'
-import Smart from "./image/Smart.png"
+
 // import student from "./image/student.jpg"
 import { Typewriter } from 'react-simple-typewriter'
 import "./Home.css"
