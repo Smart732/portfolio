@@ -10,7 +10,7 @@ function Navbar() {
                         <span className="navbar-toggler-icon"></span>
                     </button>
                     <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
-                        <div className="navbar-nav mx-auto">
+                        <div className="navbar-nav mx-auto mb-2 mb-lg-0">
                             <Link className="nav-link active" aria-current="page" to="/Project">Project</Link>
                             <Link className="nav-link" to="/Features">Features</Link>
                             <Link className="nav-link" to="/About">About</Link>
