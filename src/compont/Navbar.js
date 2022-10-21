@@ -13,9 +13,7 @@ function Navbar() {
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
-                            {/* <li class="nav-item">
-                                <Link class={`nav link ${location.pathname === "/" ? 'active' : ""}`} aria-current="page" href="#">Home</Link>
-                            </li> */}
+                            
                             <li class="nav-item">
                                 <Link class={`nav-link ${location.pathname === "/Project" ? 'active' : ""}`} to="/Project">Project</Link>
                             </li>
@@ -36,7 +34,7 @@ function Navbar() {
                         </ul>
 
                     </div>
-                </div>s
+                </div>
             </nav>
 
 
